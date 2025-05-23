@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.15.21",
+    "typescript": "^5.8.3"
+  },
+  "name": "github-user-activity",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./dist/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kavehtr/GitHub-User-Activity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kavehtr/GitHub-User-Activity/issues"
+  },
+  "homepage": "https://github.com/kavehtr/GitHub-User-Activity#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
