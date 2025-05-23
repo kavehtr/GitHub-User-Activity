@@ -1,10 +1,17 @@
 # GitHub-User-Activity
 
 # In root directory Run Npm Install
+
 npm install
 
 # Use npx tsc to compile and create dist file
-npx tsc   
+
+npx tsc
 
 # Use npm start to run the code
+
 npm start
+
+# Project URL
+
+https://roadmap.sh/projects/github-user-activity
